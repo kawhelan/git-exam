@@ -12,4 +12,4 @@ The assignment demonstrates how to set up a GitHub repository, collaborate with 
 - Practice resolving merge conflicts
 - Submit and accept pull request
 
-# This is the first change 
+# This is the first change CHALLENGE 1 CHANGE 2 
