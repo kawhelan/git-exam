@@ -1,4 +1,4 @@
-# Git Assignment CHALLENGE 1 CHANGE
+# Git Assignment CHALLENGE 1 CHANGE CHALLENGE 2 CONFLICT CHANGE 
 
 This repository contains the work for a Git collaboration assignment using RStudio and GitHub.
 The assignment demonstrates how to set up a GitHub repository, collaborate with a partner, manage changes, and resolve merge conflicts.
